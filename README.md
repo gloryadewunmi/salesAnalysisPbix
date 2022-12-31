@@ -1,2 +1,1 @@
-# Designed and implemented using Power BI product sales report process and profits made of a home appliances company.
-
+# Designed and implemented product sales report using Power BI to visualize report on profits made by a home accessory company. The excel data was cleaned using power query.
